@@ -71,7 +71,7 @@ experiences:
         company: U & SLUNO
         details: |
           - Led technically and methodically company dev team of 25 people. Transitioned them from a traditional waterfall OracleDB 12c, Java 8 setup to modern software development practices by advocating for agile methodologies and the integration of lighter components (e.g., PostgreSQL, Spring Boot 3, Java 17).
-          - Developed Java microservice backend for WES (Warehouse Execution System) as an architect. WES enabled robots to sort goods in the warehouse. Deployed PoC for the first customer on Kubernetes with hybrid networking
+          - Developed Java microservice backend for WES (Warehouse Execution System) as an architect. WES enabled robots to sort goods in the warehouse. Deployed PoC for the first customer on Kubernetes with hybrid networking to a warehouse
           - Strongly advocated for Amazon's "you build it, you run it" model, enhancing team responsibility and operational efficiency. Built an internal "platform" (basic K8s app stack) to help e-commerce and WES divisions make this transition
           - Led migration from monolithic PHP applications to modular, containerized architectures using DockerSwarm, eventually transitioning to Kubernetes with ArgoCD GitOps for 5 e-commerce customers (built CI/CD tools and Kubernetes infrastructure for 17 services)
           - Addressed OnPrem VMware infrastructure limitations by adopting Oracle Cloud (OCI) and AWS. - Consolidated 220 servers OnPrem and migrated 60% of active customer workloads to Oracle Cloud in 2 years.
@@ -93,7 +93,7 @@ experiences:
           - Initiated EHR architecture shift from monolith to first microservices - Mobile IKIS, inpatient medication process, integration bus, Czech EET, medical devices - UDI, GDPR
           - Developed EHR as a "hobby" - Zoom function for Java Swing forms, middle-ware development
 
-      - role: Chief Information Office (CIO)
+      - role: Chief Information Officer (CIO)
         time: 2016/11 - 2017/10
         company: Laboratoře AGEL, part of AGEL Group
         details: |

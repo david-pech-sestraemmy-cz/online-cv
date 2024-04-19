@@ -125,25 +125,43 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          organization: Microsoft
-
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        - name: Amazon Web Services
+          organization: AWS
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            - AWS Certified Security - Specialty (SCS-C02)
+            - AWS Certified Solutions Architect - Professional (SAP-C02)
+            - AWS Certified Solutions Architect - Associate (SAA-C03)
+
+        - name: Oracle Cloud
+          organization: OCI
+          details: |
+            - Oracle Cloud Infrastructure 2022 Architect Professional (1Z0-997-22)
+            - Oracle Cloud Infrastructure 2022 Architect Associate (1Z0-1072-22)
+
+        - name: Cloud Native Computing Foundation
+          organization: CNCF
+          details: |
+            - Certified Kubernetes Administrator (CKA)
+            - Certified Kubernetes Security Specialist (CKS)
+            - Kubernetes and Cloud Native Security Associate (KCSA)
+            - Kubernetes and Cloud Native Associate Exam (KCNA)
+            - Certified Kubernetes Application Developer (CKAD)
+            - Prometheus Certified Associate (PCA)
+            - Istio Certified Associate (ICA)
+            - Cilium Certified Associate (CCA)
+            - Certified GitOps Associate (CGOA)
+            - Certified Argo Project Associate (CAPA)
+        
+        - name: Others
+          organization: 
+          details: |
+            - Terraform Associate (003) (HashiCorp)
+            - Zabbix Certified Professional 6.0
+            - Zabbix Certified Specialist 6.0
+            - GitOps at Scale (CodeFresh)
+            - GitOps Fundamentals (CodeFresh)
+            - PRINCE2® Practitioner
+            - Certificate in Advanced English (CAE) - English level C1
 
 projects:
     title: Projects
@@ -176,6 +194,24 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+
+Expert knowledge:
+- Linux (since Debian Woody)
+- Kubernetes, ArgoCD
+- Prometheus stack
+- Terraform
+- AWS, OracleCloud (OCI)
+- DockerSwarm, Docker, buildkit
+- Java (since 1.5)
+- PostgreSQL (since 9.3)
+
+Professional in:
+- Scala, PHP, Go
+- GitLab, Github, Bitbucket
+- ElasticSearch (OpenSearch) - Logstash - Kibana, Fluentbit, 
+- Zabbix
+- Kafka, MongoDB, Redis
+- Traefik, Cilium, Rook/CephFS
       - name: Python & Django
         level: 98%
 

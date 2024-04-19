@@ -40,7 +40,7 @@ sidebar:
           level: Professional
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       Accomplished DevOps professional with 20 years of experience in software development and infrastructure management. Proficient in a wide array of technologies within the Kubernetes and CNCF ecosystem, with a focus on producing high-quality, sustainable software solutions. Known for a pragmatic and security-conscious approach to technology adoption. Highly effective in leading hands-on teams to deliver direct value to customers. Passionate about educating and enabling teams in the adoption and understanding of cloud technologies.
 
@@ -77,6 +77,7 @@ experiences:
           - Addressed OnPrem VMware infrastructure limitations by adopting Oracle Cloud (OCI) and AWS. - Consolidated 220 servers OnPrem and migrated 60% of active customer workloads to Oracle Cloud in 2 years.
           - Introduced Gitlab and CI/CD pipelines to reach better productivity - to zero-downtime deployment in peak hours
           - Built internal observability solution based on Zabbix for "static" infrastructure. Deploy federated Prometheus for "dynamic" workloads across 11 clusters. Introduces post-mortems and advocates for switching to an SLO-based approach for customers.
+          - Converted daily data ingestion pipeline from 80 flat files to event-driven architecture on Kafka for a large e-commerce customer, which mitigated daily 1-2 hours of import downtime.
           - Replatformed legacy Java 4,6 with Oracle Forms 6i ERP product to Java 8,17 with Oracle Forms 12c with CI pipelines and Kubernetes deployment. Consolidated the project sources across all customers to a single code base from a module-patch-based model
           - Maintained 3 Oracle Kubernetes clusters along with 8 on-prem clusters for customers. 
           - Contributed to in-house Python E2E automated test tool for Java Web Start apps

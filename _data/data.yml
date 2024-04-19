@@ -81,7 +81,7 @@ experiences:
           - Replatformed legacy Java 4,6 with Oracle Forms 6i ERP product to Java 8,17 with Oracle Forms 12c with CI pipelines and Kubernetes deployment. Consolidated the project sources across all customers to a single code base from a module-patch-based model
           - Maintained 3 Oracle Kubernetes clusters along with 8 on-prem clusters for customers. 
           - Contributed to in-house Python E2E automated test tool for Java Web Start apps
-      - role: Vice-Charmain of the Board, IKIS EHR Team Lead
+      - role: Vice-Chairman of the Board, IKIS EHR Team Lead
         time: 2015/04 - 2020/07
         company: Medical Systems, part of AGEL Group
         details: |

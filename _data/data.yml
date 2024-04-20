@@ -56,7 +56,7 @@ experiences:
     info:
       - role: Co-Founder, Scala Backend & AWS Infrastructure Engineer
         time: 2020/10 - Present
-        company: Emmy Medical
+        company: Emmy Medical, CZ
         details: |
           - Cofounded Czech e-health startup - smart productivity tool connecting GPs with their patients
           - Built backend services in Scala for AWS Lambda in a team of 4 BE developers
@@ -68,22 +68,23 @@ experiences:
 
       - role: Principal DevOps Engineer
         time: 2020/11 - 2023/12
-        company: U & SLUNO
+        company: U & SLUNO, Ostrava, CZ
         details: |
           - Led technically and methodically company dev team of 25 people. Transitioned them from a traditional waterfall OracleDB 12c, Java 8 setup to modern software development practices by advocating for agile methodologies and the integration of lighter components (e.g., PostgreSQL, Spring Boot 3, Java 17).
           - Developed Java microservice backend for WES (Warehouse Execution System) as an architect. WES enabled robots to sort goods in the warehouse. Deployed PoC for the first customer on Kubernetes with hybrid networking to a warehouse
           - Strongly advocated for Amazon's "you build it, you run it" model, enhancing team responsibility and operational efficiency. Built an internal "platform" (basic K8s app stack) to help e-commerce and WES divisions make this transition
           - Led migration from monolithic PHP applications to modular, containerized architectures using DockerSwarm, eventually transitioning to Kubernetes with ArgoCD GitOps for 5 e-commerce customers (built CI/CD tools and Kubernetes infrastructure for 17 services)
+          - Converted daily data ingestion pipeline from 80 flat files to event-driven architecture on Kafka for a large e-commerce customer, which mitigated daily 1-2 hours of import downtime.
+          - Replatformed legacy Java 4,6 with Oracle Forms 6i ERP product to Java 8,17 with Oracle Forms 12c with CI pipelines and Kubernetes deployment. Consolidated the project sources across all customers to a single code base from a module-patch-based model
           - Addressed OnPrem VMware infrastructure limitations by adopting Oracle Cloud (OCI) and AWS. - Consolidated 220 servers OnPrem and migrated 60% of active customer workloads to Oracle Cloud in 2 years.
           - Introduced Gitlab and CI/CD pipelines to reach better productivity - to zero-downtime deployment in peak hours
           - Built internal observability solution based on Zabbix for "static" infrastructure. Deploy federated Prometheus for "dynamic" workloads across 11 clusters. Introduces post-mortems and advocates for switching to an SLO-based approach for customers.
-          - Converted daily data ingestion pipeline from 80 flat files to event-driven architecture on Kafka for a large e-commerce customer, which mitigated daily 1-2 hours of import downtime.
-          - Replatformed legacy Java 4,6 with Oracle Forms 6i ERP product to Java 8,17 with Oracle Forms 12c with CI pipelines and Kubernetes deployment. Consolidated the project sources across all customers to a single code base from a module-patch-based model
           - Maintained 3 Oracle Kubernetes clusters along with 8 on-prem clusters for customers. 
           - Contributed to in-house Python E2E automated test tool for Java Web Start apps
+
       - role: Vice-Chairman of the Board, IKIS EHR Team Lead
         time: 2015/04 - 2020/07
-        company: Medical Systems, part of AGEL Group
+        company: Medical Systems, part of AGEL Group, CZ
         details: |
           - In-house SW development with an annual turnover of around 100M CZK (EUR 4M), around 30 employees, part of AGEL Group
           - COO and responsible for the main product - IKIS Electronic Health Record - team of 25 consultants and developers
@@ -95,30 +96,33 @@ experiences:
 
       - role: Chief Information Officer (CIO)
         time: 2016/11 - 2017/10
-        company: Laboratoře AGEL, part of AGEL Group
+        company: Laboratoře AGEL, part of AGEL Group, CZ
         details: |
-          - CIO of the largest laboratory chain in the Czechia
+          - CIO of the largest laboratory chain in Czechia
           - Crisis manager for a limited time - leading a company IT department of 4 IT specialists
           - The primary objective was to fix the data corruption that caused recurring outages of primary systems and to gain back the trust of our employees
           - Found a disk array configuration problem that caused the NTFS corruption for the MS SQL Database VM in the first month
           - After the year, the IT department was reconstructed along with the IT service catalog and handed over to a routine service
           - HW server racking and installation of Windows and MS SQL management
+
       - role: Senior Java Software Engineer
         time: 2009/06 - 2015/03
-        company: RAYNET
+        company: RAYNET, Ostrava, CZ
         details: |
           - SCRUM Master for CRM team of 7
           - Backend Java development for both internal CRM development and external projects - introducing Spring 3
           - Participated in infrastructure projects (early days of DevOps and OpenStack). Built SaaS platform that could create a new tenant (Java App server + PostgreSQL) under minute using Chef and Puppet
+
       - role: CEO and Ruby on Rails Software Engineer
         time: 2008/11 - 2013/03
-        company: Weblift
+        company: Weblift, Ostrava, CZ
         details: |
           - Co-owner of a small web and e-commerce shop employing 4 and 10 interns at its peak
           - Ruby on Rails on Shopick platform (article price comparison tool between multiple e-commerce sites) - the project won 3rd place in the entrepreneurs competition of Ostrava University Startup Incubator
+
       - role: PHP Junior Developer
         time: 2006/07 - 2007/10
-        company: Shopsys
+        company: Shopsys, Ostrava, CZ
         details: |
           - Coded and later maintained 8 e-commerce sites design into XHTML, CSS, JS with PHP backend using Subversion
           - Created a CMS module for the product

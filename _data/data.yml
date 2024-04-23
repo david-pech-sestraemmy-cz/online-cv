@@ -60,6 +60,7 @@ experiences:
         details: |
           - Cofounded Czech e-health startup - smart productivity tool connecting GPs with their patients
           - Built backend services in Scala for AWS Lambda in a team of 4 BE developers
+          - Reduced AWS Lambda cold start for Java web app from 9s to 300ms with ProGuard na GraalVM
           - Operated multi-tenant SaaS product for CZ, SK market focusing on Golden signals in observability
           - Optimized PostgreSQL Aurora multi-tenant database down to 10% of resources and 25% of costs
           - Reduced overall AWS cloud bill by 50% and introduced better cost visibility
